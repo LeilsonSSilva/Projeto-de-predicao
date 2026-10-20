@@ -26,7 +26,8 @@ O fluxo da solução foi estruturado em quatro camadas principais:
 ## 📈 Análise Exploratória de Dados (AED)
 Antes do treino do modelo preditivo, foi realizada uma Análise Exploratória de Dados em Python para compreender a correlação entre as variáveis ambientais e o consumo elétrico. O gráfico gerado automaticamente pelo script (`analise_temperatura_consumo.png`) demonstra o impacto direto da elevação da temperatura no aumento do consumo energético do estoque:
 
-<img width="707" height="471" alt="image" src="https://github.com/user-attachments/assets/045dd462-203d-4ad1-8623-c9ce707851be" />
+<img width="2128" height="1411" alt="analise_temperatura_consumo" src="https://github.com/user-attachments/assets/e09f079d-5fb4-453e-9290-a62b496fec5d" />
+
 
 
 ---
